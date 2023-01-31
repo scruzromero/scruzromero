@@ -1,0 +1,51 @@
+/* -- ESSAYS PAGE -- */
+
+.essaysBody {
+    /* border: 1px solid red; */
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.essaysDescription {
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    line-height: 2;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.essayIndex {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.essayIndexHeader {
+    height: 60px;
+    border: 1px solid;
+    background-color: rgb(243, 220, 255);
+}
+
+#essayIndexHeaderNumber {
+    width: 30px;
+}
+
+#essayIndexHeaderDate {
+    width: 140px;
+}
+
+.essayIndexData {
+    height: 30px;
+    border: 1px solid;
+    padding: 15px;
+}
+
+.essayIndexDataCenter {
+    height: 30px;
+    border: 1px solid;
+    text-align: center;
+}

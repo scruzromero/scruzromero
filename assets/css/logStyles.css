@@ -1,0 +1,51 @@
+/* -- LOG PAGE -- */
+
+.logBody {
+    /* border: 1px solid red; */
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.logEntry {
+    /* border: 1px solid blue; */
+    margin-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    background-color: rgb(243, 220, 255);
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.3;
+}
+
+.logEntryNumber {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 0.5;
+    color: rgb(46, 18, 73);
+}
+
+.logEntryDate {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 0.5;
+    color: rgb(46, 18, 73);
+}
+
+.logEntryHR {
+    background-color: blueviolet;
+}
+
+.logEntryOrderList {
+    color: rgb(87, 16, 117);
+}
+
+.logEntryImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    width: 400px;
+}

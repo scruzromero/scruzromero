@@ -1,0 +1,65 @@
+/* -- REFERENTES PAGE -- */
+
+.refDescription {
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    line-height: 2;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.refBody {
+    /* border: 1px solid red; */
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.refIndex {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.refIndexHeader {
+    height: 60px;
+    border: 1px solid;
+    background-color: rgb(255, 220, 242);
+}
+
+#refIndexHeaderNumber {
+    width: 30px;
+}
+
+#refIndexHeaderAuthor {
+    width: 150px;
+}
+
+#refIndexHeaderCat {
+    width: 120px;
+}
+
+#refIndexHeaderDate {
+    width: 65px;
+}
+
+.refIndexDataCenter {
+    height: 30px;
+    border: 1px solid;
+    text-align: center;
+}
+
+.refIndexDataTitle {
+    height: 30px;
+    border: 1px solid;
+    padding: 15px;
+}
+
+.refIndexDataComment {
+    font-weight: 500;
+    line-height: 1.5;
+    padding: 20px;
+    border-bottom: 5px solid rgb(226, 112, 184);
+}
