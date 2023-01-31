@@ -49,3 +49,73 @@
     border: 1px solid;
     text-align: center;
 }
+
+
+/* -- ESSAYS INDIVUAL PAGES -- */
+
+#essaysSubTitleImg {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.essaysContent {
+    margin-bottom: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    background-color: rgb(243, 220, 255);
+    font-family: 'Inconsolata', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.essaysContentTitleContainer {
+    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#essaysContentTitle {
+    text-align: center;
+    font-size: 28px;
+    color: rgb(56, 18, 92);
+    line-height: 1;
+}
+
+.essaysContentDate {
+    text-align: center;
+    font-size: 14px;
+    color: rgb(56, 18, 92);
+}
+
+.essaysContentHR {
+    width: 50%;
+}
+
+.essaysContentBiblioContainer {
+    padding: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.essaysContentBiblio {
+    text-align: left;
+    font-size: 16px;
+    color: rgb(56, 18, 92);
+    line-height: 1;
+}
+
+.essaysContentBiblioItem {
+    font-size: 15px;
+    padding-left: 25px;
+    text-indent: -25px;
+}
+
+.essaysFootControls {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
