@@ -53,3 +53,7 @@ li {
     margin-bottom: 15px;
     width: 400px;
 }
+
+a:visited {
+    color: rgb(95,158,160);
+}
